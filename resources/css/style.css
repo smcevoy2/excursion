@@ -1,5 +1,10 @@
-h1 {
+* {
+  background-color: black;
   font-family: Verdana;
+  text-align: center;
+}
+
+h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
@@ -8,4 +13,23 @@ h1 {
 .Download {
   color: Aquamarine;
   font-size: 16px;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 400;
+  color: white;
+}
+
+h3 {
+  font-size: 21px;
+  font-weight: normal;
+  color: Gray;
+}
+
+h4 {
+  text-align: right;
+  font-size: 21px;
+  font-weight: normal;
+  color: Gray;
 }
